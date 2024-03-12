@@ -8,12 +8,12 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 Final project for the Building AI course
 
-## basically please help me and give this im getting a ps4 if i finish this :)
+## AI Project )
 
 my project is about how this is gonna happen in a nice way becasue in a bad way wouldn't be good. I think today went really swell idk what that word that is but i do know that its from a disney show and it makes me mad. now that i think of it its from victorious and robbie needs to stop.
 
 
-## my background is so skibidi toilet
+## AI project
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
@@ -44,17 +44,19 @@ def main():
    totPop = sum(pop)
    totFish = sum(fishers)
 
-   # write your solution here
+   # i think we should move it to the right 3 times
 
    for i in range(len(countries)):
       print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
 
-main()
+with the totPop and totFish I think the code is moving over 5 times for totFish and 3 times for totPop
 ```
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
+Where does your data come from? - my data came from all of my brain I came up with this all by myself.
+Do you collect it yourself or do you use data collected by someone else?
+- I actually collect it by someone else but I don't know their name.
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)
 
@@ -65,11 +67,18 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+What does your project _not_ solve?
+- It doesn't completley explain the problem and the issue but I think I explained it pretty good.
+  Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+  - I think that we could consider using the fox, chicken,chicken food, and robot problem because that worked pretty well for the past problems.
 
 ## What next?
+Now I'm going to explain the questions below.
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+How could your project grow and become something even more?
+- my project could grow by reaching out to people with more experience and they could help me make my project bigger and maybe get some more attention.
+- What kind of skills, what kind of assistance would you  need to move on?
+- I would need assistance from a person with better experiences to help me and teach me along the way
 
 
 ## Acknowledgments
