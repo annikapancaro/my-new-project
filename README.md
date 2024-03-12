@@ -10,7 +10,7 @@ Final project for the Building AI course
 
 ## AI Project )
 
-my project is about how this is gonna happen in a nice way becasue in a bad way wouldn't be good. I think today went really swell idk what that word that is but i do know that its from a disney show and it makes me mad. now that i think of it its from victorious and robbie needs to stop.
+my project is about the things i leraned during the course
 
 
 ## AI project
